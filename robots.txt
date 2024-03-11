@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+User-agent: *AppleWebkit/537.36
+Disallow:Mozilla/5.0(Linux;
+Android 10;K)KHTML, like Gecko)Chrome/122.0.0.0. Mobile Safari/537.36
